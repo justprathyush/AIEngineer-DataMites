@@ -1,1 +1,1 @@
-# AIEngineer-Datamites
+# AIEngineer-DataMites
