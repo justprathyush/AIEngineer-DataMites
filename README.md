@@ -28,10 +28,10 @@
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
     -Explain the types of Machine Learning
-        -Supervised Learning
-        -Unsupervised Learning
-        -Semi-Supervised Learning
-        -Reinforcement Learning
+        1. Supervised Learning
+        2. Unsupervised Learning
+        3. Semi-Supervised Learning
+        4. Reinforcement Learning
     -ML Algorithm explains
     -Data Science Workflow
     -Introduction to AI
