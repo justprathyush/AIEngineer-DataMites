@@ -1,7 +1,8 @@
 # AIEngineer-DataMites
 
-## Week 01: Data Science Foundation (07-Aug)
-#### Day 01: Introduction of Data Science
+## Week 01: Data Science Foundation [07-Aug to 10-Aug]
+
+#### Day 01:
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
@@ -12,40 +13,53 @@
     -Domain Analysis
     -Exploratory Data Analysis
 
-#### Day 02: Advanced Formulas and Functions
+#### Day 02: 
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/tree/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D)
- 
-    -Working with logical functions (IF, AND, OR)
-    -Exploring lookup functions (VLOOKUP, HLOOKUP, INDEX, MATCH)
-    -Introduction to array formulas
-    -Identifying and handling missing data
-    -Removing duplicates and dealing with errors
-    -Text-to-columns and data-splitting techniques
-    -Formatting data for analysis
-    -Creating basic charts and graphs
-    -Tips for effective data presentation
-    -Introduction to PivotTables for dynamic data analysis
-    -Creating PivotCharts for visual insights
-    -Customizing and formatting PivotTables and PivotCharts
-    -Time-saving shortcuts and productivity hacks
-    -Excel with AI
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
 
+    -Data Preparation
+    -Machine Learning Introduction
+    -Area of AI
+    -Machine Learning Use Cases Demo
+    -Type of Machine Learning.
 
-## Week 02: SQL
-#### Day 03: Introduction to SǪL and Database Fundamentals
+#### Day 03:
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Basics%20Of%20SQL.sql)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
-    -Overview of SǪL and its applications
-    -Introduction to Relational Databases
-    -Basic SǪL syntax and structure
-    -Creating and modifying tables with CREATE and ALTER
-    -Understanding data types and constraints
+    -Explain the types of Machine Learning
+        -Supervised Learning
+        -Unsupervised Learning
+        -Semi-Supervised Learning
+        -Reinforcement Learning
+    -ML Algorithm explains
+    -Data Science Workflow
+    -Introduction to AI
+    -Computer Vision
+    -Natural Language Processing
+    -Reinforcement Learning
+    -Generative Adversarial Network (GAN)
 
+#### Day 04:
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
+
+    -Analytics vs Business vs Technology 
+    -Why SQL for Data Science
+    
+## Week 02: Statistics Essential [14-Jul to 17-Jul]
+
+#### Day 05:
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
+
+    -Why Statistics
+    -Types of Statistics
+        1. Descriptive Statistics
+        2. Inferential Statistics
+    -Types of Data
   
-#### Day 04: Retrieving Data with SELECT Statements
-
+#### Day 06:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Basics of SELECT statements
