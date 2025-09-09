@@ -61,6 +61,10 @@
         -Basic Terms
             -Population
             -Sample
+#### Day 06:
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
+
         -Types of Data
             -Data
                 1. Numerical
@@ -69,16 +73,77 @@
                 2. Categorical
                     a. Ordinal (Priority/Hierarchy)
                     b. Nominal
+    -Harnessing Data
+        -Step involved in Descriptive statistics
+            1. Collecting the Data
+            2. Presenting the Data
+            3. Summarizing the data
+        -Making sense of the data
+        -Collecting the Data
+        -Methods used to collect data
+
+        -Types of Sampling
+            1. Probability Sampling
+                a. Simple Random Sampling
+                b. Stratified random sampling
+                c. Systematic sampling
+                d. Cluster Random Sampling
+                e. Multi-stage random sampling
+            2. Non-Probability Sampling
+                a. Convenience sampling
+                b. Judgmental / Purposive sampling
+                c. Snowball sampling
+                d. Quota sampling
   
-#### Day 06:
+#### Day 07:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
-    -Basics of SELECT statements
-    -Filtering data with WHERE clause
-    -Sorting results with ORDER BY
+    -EDA
+        1. Measure of Central Tendency
+            a. Mean
+            b. Median
+            c. Mode
+    -Measure of Spread/Data Variability
+        -Range
+        -Interquartile range (IQR)
+        -Standard Deviation
+        -Variance
+        -Percentile/Centile
+    -Distribution
+        -Types of Distribution
+            1. Continuous Distribution
+            2. Discrete Distribution
+        -Normal Distribution
+            Properties of Normal/Gaussian Dist
+                1. Empirical rule
+                2. Distortion is Normal Distribution
+                3. Central Limit Theorem
+                4. Standard Normal Dist
+                5. Outliers
+                6. QQ plot
+                7. Log, sqrt, Box-Cox transformation
+
+#### Day 08:
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
+    -Standard Normal Distribution
+    -Z-score/z-value/standard score
+    -Probability Density Function
+    -Measure of Distance
+        1. Euclidean Distance
+        2. Manhattan Distance
+        3. Minkowski Distance
+    -Covariance
+    -Correlation
+
+    -Hypothesis Testing
+        -Types of Hypothesis
+            1. Null Hypothesis
+            2.Alternate Hypothesis
+        -Hypothesis Testing-Case Discussion
 
 ## Week 03: Advanced SǪLTechniques
-#### Day 05: Aggregation and Grouping
+#### Day 09: Aggregation and Grouping
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
