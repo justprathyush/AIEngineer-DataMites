@@ -1,6 +1,6 @@
 # AIEngineer-DataMites
 
-## Week 01: Data Science Foundation [07-Aug to 10-Aug]
+## Week 01: Data Science Foundation [07-July to 10-July]
 
 #### Day 01:
 
@@ -53,11 +53,22 @@
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
 
-    -Why Statistics
-    -Types of Statistics
-        1. Descriptive Statistics
-        2. Inferential Statistics
-    -Types of Data
+    -Statistics for Data Science
+        -Why Statistics
+        -Types of Statistics
+            1. Descriptive Statistics
+            2. Inferential Statistics
+        -Basic Terms
+            -Population
+            -Sample
+        -Types of Data
+            -Data
+                1. Numerical
+                    a. Continous
+                    b. Discrete
+                2. Categorical
+                    a. Ordinal (Priority/Hierarchy)
+                    b. Nominal
   
 #### Day 06:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
