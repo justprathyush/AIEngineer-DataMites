@@ -1,9 +1,7 @@
 # AIEngineer-DataMites
 
 ## Week 01: Data Science Foundation [07-July to 10-July]
-
 #### Day 01:
-
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
     -Data Science Introduction.
@@ -14,7 +12,6 @@
     -Exploratory Data Analysis
 
 #### Day 02: 
-
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
 
     -Data Preparation
@@ -49,7 +46,7 @@
     
 ## Week 02: Statistics Essential [14-Jul to 17-Jul]
 
-#### Day 05:
+#### Day 01:
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
 
@@ -61,7 +58,7 @@
         -Basic Terms
             -Population
             -Sample
-#### Day 06:
+#### Day 02:
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
 
@@ -95,7 +92,7 @@
                 c. Snowball sampling
                 d. Quota sampling
   
-#### Day 07:
+#### Day 03:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -EDA
@@ -123,7 +120,7 @@
                 6. QQ plot
                 7. Log, sqrt, Box-Cox transformation
 
-#### Day 08:
+#### Day 04:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Standard Normal Distribution
@@ -143,7 +140,8 @@
         -Hypothesis Testing-Case Discussion
 
 ## Week 03: Advanced SǪLTechniques
-#### Day 09: Aggregation and Grouping
+
+#### Day 01: Aggregation and Grouping
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
@@ -274,74 +272,4 @@
     -Handling missing data
     -Removing duplicates and dealing with outliers
     -Cleaning and adjustments in data
-    
-## Week 8: EDA & Data Visulization
-#### Day 1: Exploratory Data Analysis (EDA) with Pandas
 
-Descriptive statistics and data summarization
-Grouping and aggregating data
-SǪL like operation in data
-
-Day 2: Data Visualization with Matplotlib
-
-Creating basic plots (line plots, scatter plots, histograms)
-Customizing and styling visualizations
-
-## Week 9: Real-time Python
-Day 1: Advanced Data Analysis with NumPy
-
-Introduction to NumPy for numerical operations
-Working with arrays and matrices
-Day 2: Advanced Data Visualization with Seaborn
-
-Creating informative and aesthetically pleasing visualizations
-Pair plots, heatmaps, and advanced plotting technique 
-
-## Week 10: Statistical Analysis
-Day1: Statistical Analysis with Scipy
-
-Introduction to statistical tests and hypothesis testing
-Implementing statistical tests in Python
-Final Project and Case Studies
-Participants work on a real-world data analysis project
-Applying learned Python skills to analyze and visualize data
-Day2: Case Studies and Discussion &Power BI
-
-Reviewing case studies of Python usage in data analysis
-Q&A and discussions on best practices
-Introduction to Power BI
-Understanding the Power BI interface
-Importing data from different sources
-Transforming and shaping data within Power BI
-
-## Week 11: Power BI
-Day 1: Data Modeling and Relationships in Power BI
-
-Creating a data model in Power BI
-Understanding relationships between tables
-Implementing calculated columns and measures
-Using DAX (Data Analysis Expressions) for advanced calculations
-Day 2: Visualizations and Interactivity
-
-Creating common visualizations (bar charts, line charts, etc.)
-Customizing visualizations for better insights
-Adding interactivity to reports and dashboards
-Implementing drill-through actions for detailed analysis
-The Art of Storytelling with Data
-Principles of Effective Data Storytelling
-Importance of narrative in data presentations
-Building a cohesive narrative in Power BI
-Using bookmarks and storytelling features
-
-## Week 12: Power BI for Real-Time Analytics and Advanced Features
-Day 1: Real-Time Dashboards
-
-Setting up real-time data streaming in Power BI
-Creating dashboards for live data monitoring
-Day 2: Advanced Features and Custom Visuals
-
-Exploring custom visuals and visuals from the marketplace
-Leveraging advanced features like forecasting and clustering
-Case Studies and Discussion
-Reviewing case studies of effective Power BI usage
-Ǫ&A and discussions on best practices in storytelling with data
