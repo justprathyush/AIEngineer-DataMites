@@ -1,7 +1,6 @@
 # AIEngineer-DataMites
-
-## Week 01: Data Science Foundation [07-July to 10-July]
-#### Day 01:
+## Week 1: Data Science Foundation [07-July to 10-July]
+#### Day 1:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
     -Data Science Introduction.
@@ -10,7 +9,7 @@
     -Analytics Classification
     -Domain Analysis
     -Exploratory Data Analysis
-#### Day 02: 
+#### Day 2: 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
 
     -Data Preparation
@@ -18,7 +17,7 @@
     -Area of AI
     -Machine Learning Use Cases Demo
     -Type of Machine Learning.
-#### Day 03:
+#### Day 3:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
 
     -Explain the types of Machine Learning
@@ -33,13 +32,13 @@
     -Natural Language Processing
     -Reinforcement Learning
     -Generative Adversarial Network (GAN)
-#### Day 04:
+#### Day 4:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
 
     -Analytics vs Business vs Technology 
     -Why SQL for Data Science
-## Week 02: Statistics Essential [14-Jul to 17-Jul]
-#### Day 01:
+## Week 2: Statistics Essential [14-Jul to 17-Jul]
+#### Day 1:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
 
     -Statistics for Data Science
@@ -50,7 +49,7 @@
         -Basic Terms
             -Population
             -Sample
-#### Day 02:
+#### Day 2:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
 
         -Types of Data
@@ -82,7 +81,7 @@
                 b. Judgmental / Purposive sampling
                 c. Snowball sampling
                 d. Quota sampling
-#### Day 03:
+#### Day 3:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -EDA
@@ -109,7 +108,7 @@
                 5. Outliers
                 6. QQ plot
                 7. Log, sqrt, Box-Cox transformation
-#### Day 04:
+#### Day 4:
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Standard Normal Distribution
@@ -128,9 +127,13 @@
             2. Alternate Hypothesis
         -Hypothesis Testing-Case Discussion
 
-## Week 03: Git & Github
-#### Day 01:
+## Week 16: Git & Github
+#### Day 1:
     -Git installation
+    -Three types of Systems
+        -local System
+        -Centralized System
+        -Distributed System
 
 #### Day 2:
     -Git Push
