@@ -39,7 +39,7 @@
     -Why SQL for Data Science
 ## Week 2: Statistics Essential [14-Jul to 17-Jul]
 #### Day 1:
-[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/14-07-2025%20Notes.pdf), [PPT](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Statistics%20Essential_V5.pptx)
+[Notes 📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/14-07-2025%20Notes.pdf), [PPT 📊](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Statistics%20Essential_V5.pptx)
 
     -Statistics for Data Science
         -Why Statistics
@@ -129,7 +129,8 @@
 
 ## Week 16: Git & Github
 #### Day 1:
-[PPT](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-16%20(Git%20%26%20GitHub)/Version_Control.pdf)
+[PPT 📊](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-16%20(Git%20%26%20GitHub)/Version_Control.pdf)
+
     -Git installation
     -Three types of Systems
         -local System
