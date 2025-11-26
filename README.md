@@ -1,7 +1,7 @@
 # AIEngineer-DataMites
 ## Week 1: Data Science Foundation [07-July to 10-July]
 #### Day 1:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-1%20(DataScience%20Foundation)/Notes/07-07-2025%20Notes.pdf)
 
     -Data Science Introduction.
     -Big Data vs Data Science
@@ -10,7 +10,7 @@
     -Domain Analysis
     -Exploratory Data Analysis
 #### Day 2: 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-1%20(DataScience%20Foundation)/Notes/08-07-2025%20Notes.pdf)
 
     -Data Preparation
     -Machine Learning Introduction
@@ -18,7 +18,7 @@
     -Machine Learning Use Cases Demo
     -Type of Machine Learning.
 #### Day 3:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-1%20(DataScience%20Foundation)/Notes/09-07-2025%20Notes.pdf)
 
     -Explain the types of Machine Learning
         1. Supervised Learning
@@ -33,13 +33,13 @@
     -Reinforcement Learning
     -Generative Adversarial Network (GAN)
 #### Day 4:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-1%20(DataScience%20Foundation)/Notes/10-07-2025%20Notes.pdf)
 
     -Analytics vs Business vs Technology 
     -Why SQL for Data Science
 ## Week 2: Statistics Essential [14-Jul to 17-Jul]
 #### Day 1:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/14-07-2025%20Notes.pdf), [PPT](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Statistics%20Essential_V5.pptx)
 
     -Statistics for Data Science
         -Why Statistics
@@ -50,7 +50,7 @@
             -Population
             -Sample
 #### Day 2:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/15-07-2025%20Notes.pdf)
 
         -Types of Data
             -Data
@@ -82,7 +82,7 @@
                 c. Snowball sampling
                 d. Quota sampling
 #### Day 3:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/16-07-2025%20Notes.pdf)
 
     -EDA
         1. Measure of Central Tendency
@@ -109,7 +109,7 @@
                 6. QQ plot
                 7. Log, sqrt, Box-Cox transformation
 #### Day 4:
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+[Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-2%20(Statistics)/Notes/17-07-2025%20Notes.pdf)
 
     -Standard Normal Distribution
     -Z-score/z-value/standard score
@@ -129,6 +129,7 @@
 
 ## Week 16: Git & Github
 #### Day 1:
+[PPT](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-16%20(Git%20%26%20GitHub)/Version_Control.pdf)
     -Git installation
     -Three types of Systems
         -local System
