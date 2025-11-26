@@ -132,16 +132,24 @@
 [PPT 📊](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-16%20(Git%20%26%20GitHub)/Version_Control.pdf)
 
     -Git installation
+    -Purpose of Version Control
+    -Git Introduction
+    -Distribution Version Control
+    -Terminologies in Git
     -Three types of Systems
         -local System
         -Centralized System
         -Distributed System
 
 #### Day 2:
-    -Git Push
+    -git add
+    -git commit
+    -git push
 
 #### Day 3:
-    -Github Collaboration
+    -GitHub Collaboration
+    -git pull
 
 #### Day 4:
-     -
+     -git checkout
+     -git merge
