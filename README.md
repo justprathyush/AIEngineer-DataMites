@@ -2,44 +2,6 @@
 
 ## Notes
 
-## AI Foundation
-
-AI -> ML-> DL -> NLP -> GenAI-> AI agent -> Agentic AI
-
-AI: Machine mimic the human intelligence -> Learn, think, underland,image, make decision
-ML: A subset of AI -> where learn from data & learn the pattern.
-    *Supervisied Learning
-    *Unsuper
-
-DL: A subset of ML that uses artificial neural network with many language
-    *ANN: Basic type of neural network Work with both classification and regressions
-            cannot work with images
-            Input -> hidden -> Output Layer
-                        |
-                     tabular
-                        |
-                RSC problem
-    *RNN: designed to work with sequestional data (speach text)()
-    *CNN: work with image
-    *Lstm(long short term memory): its upadated version for rnn
-    *GRU(gated recuring unit): simplefied version lstm
-    *Auto Encorder: 1. An Autoencoder is a neural network that learns to:
-                    2. Compress the input into a smaller representation.
-    *GAN: A GAN is a deep learning model that generates new data that looks like real data.
-    *Transformer: The Transformer is the architecture behind modern Large Language Models (LLMs).
-    
-NLP: branch of computer to understand process & generate human language
-Gen AI: A type of AI That create new content 
-Ai Agents: 
-    *Can use multiple tool
-    *Can make decision
-    *Can Execute Action
-Agentic AI: 
-    *Advance form of AI where multi AI agents can plan work,execute task
-
-
-
-
 ## Week 1: Data Science Foundation [07-July to 10-July]
 #### Day 1:
 [Notes📒](https://github.com/justprathyush/AIEngineer-DataMites/blob/main/Week-1%20(DataScience%20Foundation)/Notes/07-07-2025%20Notes.pdf)
